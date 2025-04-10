@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-austinrippee.vercel.app?user=AustinRippee&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
 
-![](https://komarev.com/ghpvc/?username=AustinRippee&label=Visitors+Count&color=red&style=for-the-badge)
-
 </div>
